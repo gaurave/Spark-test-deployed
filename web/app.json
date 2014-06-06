@@ -1,0 +1,5 @@
+{
+  "test-mode":true,
+  "show-git-branch":true,
+  "show-git-pull":true
+}
